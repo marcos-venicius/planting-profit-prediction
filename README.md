@@ -4,6 +4,11 @@ _The [data.csv](./data.csv) file is from: [Alura cursos vertex repository](https
 
 This notebook tries to make some study upon planting data to predict the profit based on planting information.
 
+![image](https://github.com/marcos-venicius/planting-profit-prediction/assets/94018427/96c3c091-f71a-43a2-8d39-a0af84c597be)
+![image](https://github.com/marcos-venicius/planting-profit-prediction/assets/94018427/ef2970c9-5737-459c-978b-0386eba8f61d)
+![image](https://github.com/marcos-venicius/planting-profit-prediction/assets/94018427/4dcf394f-a613-4685-9a92-ba4079599883)
+
+
 **Independent variables**
 
 - Área plantada (Planted Area)
